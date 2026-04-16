@@ -5,7 +5,7 @@ def sum(a, b):
 
 import random
 
-lingua = int(input("Escolha a lingua: 1 - português; 2 - inglês\n")
+lingua = int(input("Escolha a lingua: 1 - português; 2 - inglês\n"))
 
 if lingua == 2:
 	parte1 = []
